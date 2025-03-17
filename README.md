@@ -9,4 +9,4 @@
  # tailwind css 
  # imported data
 
- is live @
+ is live @https://search-bar-ruddy.vercel.app/
