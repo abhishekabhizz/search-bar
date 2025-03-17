@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Search form is used to search particular data  form a list of data and is used to edit ,update ,and delete data's .
+# A "search form" is a form that allows users to input specific criteria to refine their search, often presented as a structured interface with multiple fields for different search parameters. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# items used:
+ # react
+ # tailwind css 
+ # imported data
+
+ is live @
